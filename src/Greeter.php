@@ -1,5 +1,4 @@
 <?php
-
 namespace Root\PhpunitPractice;
 
 class Greeter 
